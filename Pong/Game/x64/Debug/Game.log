@@ -1,0 +1,10 @@
+﻿  Ball.cpp
+  Button.cpp
+  GameManager.cpp
+  Helpers.cpp
+  Main.cpp
+  Game.cpp
+  Paddle.cpp
+  SevenSegmentDisplay.cpp
+  Generating Code...
+  Game.vcxproj -> C:\Users\mrspo\Documents\GitHub\GithubUS\SFML_Engine-main\Pong\x64\Debug\Game.exe
